@@ -106,7 +106,7 @@ global.mess = {
 	limit: '_*Your limit is up!*_',
 	nsfw: '_*Nsfw is disabled in this group, Please tell the admin to enable*_',
     done: '_*Done ✓*_',
-    error: '_*I am having error to execute this*_',
+    error: '_*-oops, my bad Boii*_',
     success: '_*Here you go!*_'
 }
 //thumbnail
